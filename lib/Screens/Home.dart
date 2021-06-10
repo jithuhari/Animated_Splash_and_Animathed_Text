@@ -103,8 +103,7 @@ class _HomeState extends State<Home> {
 
 
               Center(child: Text('Liquid Fil Animation'),),
-              
-
+          
               TextLiquidFill(
               text: 'LIQUIDY',
               waveColor: Colors.blueAccent,
